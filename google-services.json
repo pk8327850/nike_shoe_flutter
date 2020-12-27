@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646629947007",
+    "firebase_url": "https://nike-aee08.firebaseio.com",
+    "project_id": "nike-aee08",
+    "storage_bucket": "nike-aee08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646629947007:android:b317d0b7ad7a500415314a",
+        "android_client_info": {
+          "package_name": "com.pkcodeproject.nike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646629947007-vna0tjogam9pj9ldh00a3pm0q21g8jru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdrvmUmFhnK-3l0N-yuYtpUCzrv6pQTZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646629947007-vna0tjogam9pj9ldh00a3pm0q21g8jru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

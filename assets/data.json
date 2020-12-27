@@ -1,0 +1,18 @@
+[
+  {
+    "image": "images/sniker.jpg",
+    "name": "sniker"
+  },
+  {
+    "image": "images/formal.jpg",
+    "name": "formal"
+  },
+  {
+    "image": "images/sports.jpg",
+    "name": "sports"
+  },
+  {
+    "image": "images/spikes.jpg",
+    "name": "spikes"
+  }
+]
