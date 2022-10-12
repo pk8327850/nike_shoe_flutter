@@ -1,6 +1,6 @@
 # nike
 
-A new Flutter application.
+A new Flutter e-commerce application.
 
 ## Getting Started
 
